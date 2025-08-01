@@ -6,7 +6,7 @@
 # rabbitmq:3.12.9
 # zookeeper:3.9.0
 canal/canal-server:v1.1.7
-slpcat/canal-adapter:v1.1.7
+slpcat/canal-adapter:v1.1.5
 elasticsearch:7.17.14
 kibana:7.17.14
 kuschzzp/xxl-job-aarch64:2.4.0
