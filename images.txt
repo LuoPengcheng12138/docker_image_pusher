@@ -2,11 +2,11 @@
 # mysql:8.0.32
 # phpmyadmin:5.2.1
 # redis:6.2
-rediscommander/redis-commander:latest
-rabbitmq:3.12.9
-zookeeper:3.9.0
-canal-server:v1.1.7
-canal-adapter:v1.1.6
+# rediscommander/redis-commander:latest
+# rabbitmq:3.12.9
+# zookeeper:3.9.0
+canal/canal-server:v1.1.7
+canal/canal-adapter:v1.1.6
 elasticsearch:7.17.14
 kibana:7.17.14
 kuschzzp/xxl-job-aarch64:2.4.0
